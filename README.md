@@ -24,6 +24,11 @@ This repository contains the official **TAVARDT Agency** hardening templates for
 1. **Never copy-paste blindly.** Review the rules to ensure they do not conflict with your specific hosting environment (e.g., some plugins rely on the REST API for guest users).
 2. For maximum effectiveness, the PHP functions should be placed in a Must-Use plugin (`/wp-content/mu-plugins/security.php`) rather than a theme's `functions.php`.
 
+### Contact & Services
+Looking for elite B2B infrastructure and high-ticket digital engineering?
+- **Website:** [ag.tavardt.com](https://ag.tavardt.com/)
+- **Email:** contact@tavardt.com
+
 ---
 
 ## 🇧🇷 Português
@@ -39,3 +44,8 @@ Este repositório contém os templates oficiais de "Hardening" (blindagem) da **
 ### Guia de Implementação
 1. **Nunca copie e cole às cegas.** Revise as regras para garantir que não conflitam com sua infraestrutura de hospedagem atual (ex: alguns plugins dependem da API REST para visitantes).
 2. Para máxima eficácia e estabilidade, as funções PHP devem ser colocadas em um plugin Must-Use (`/wp-content/mu-plugins/security.php`) em vez de no `functions.php` do tema.
+
+### Contato & Serviços
+Procurando por infraestrutura B2B de elite e engenharia digital high-ticket?
+- **Site:** [ag.tavardt.com/br/](https://ag.tavardt.com/br/)
+- **E-mail:** contato@tavardt.com
